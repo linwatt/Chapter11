@@ -1,0 +1,85 @@
+{
+ "sections": [
+  {
+   "id": "7cd15453-0688-fdbb-3998-7efac5ba6c08",
+   "title": "SQLite Databases",
+   "files": [],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/SQLite-Databases-7cd1.md",
+   "chapter": true,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "c010c6ce-cc39-33f6-e764-67e744f48a59",
+   "title": "Back to Starbuzz",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Back-to-Starbuzz-c010.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "5114531f-078c-54b7-e2dc-5e2b0230bb27",
+   "title": "SQLite",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/SQLite-5114.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "3daaaef9-690e-51b9-5bda-4a7a2e2c5afa",
+   "title": "Where's the database stored? ",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Where-s-the-database-stored---3daa.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "b46f19e6-ea99-ad50-03bd-b151fa534a7e",
+   "title": "Android comes with SQLite classes",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Android-comes-with-SQLite-classes-b46f.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "379010c3-4ff2-126f-420d-a543e759ecc7",
+   "title": "The current Starbuzz app structure",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/The-current-Starbuzz-app-structure-3790.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "06f90b8f-1e40-afa8-7f5c-f05d4274e0dd",
+   "title": "We'll change the app to use a database",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/We-ll-change-the-app-to-use-a-database-06f9.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  }
+ ],
+ "theme": "light",
+ "scripts": [],
+ "lexikonTopic": ""
+}

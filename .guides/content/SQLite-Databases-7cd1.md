@@ -1,0 +1,1 @@
+If you're recording high scores or saving tweets, your app will need to store data. And on Android, you usually keep your data safe inside a SQLite database. In this unit, we'll show you how to create a database, add tables to it, and prepopulate it with data, all using the SQLite helper. 
