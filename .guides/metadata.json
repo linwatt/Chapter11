@@ -360,6 +360,83 @@
    "chapter": false,
    "reset": [],
    "teacherOnly": false
+  },
+  {
+   "id": "88493aec-3ff5-5e47-2946-d26debd81926",
+   "title": "Upgrading an existing database",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Upgrading-an-existing-database-8849.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "314fc30b-1310-5fad-dfbc-de6969289d52",
+   "title": "Add new columns to table using SQL",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Add-new-columns-to-table-using-SQL-314f.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "cfd90070-dbda-5edc-0e0f-74085d731722",
+   "title": "Altering Tables",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Altering-Tables-cfd9.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "dd8ce927-c14f-4817-bcba-d5fdda3b8f80",
+   "title": "Execute the SQL using execSQL()",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Execute-the-SQL-using-execSQL---dd8c.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "f58a2be6-e5f0-34a6-ba2e-e2df02caf289",
+   "title": "The full SQLite Helper code",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/The-full-SQLite-Helper-code-f58a.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "6a83dd6d-47e8-c135-e26c-23a6dd628a62",
+   "title": "What happens when the code runs",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/What-happens-when-the-code-runs-6a83.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "fe981005-c292-9d05-11c1-f271bde597b9",
+   "title": "Bullet Points",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Bullet-Points-fe98.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
   }
  ],
  "theme": "light",
