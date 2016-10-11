@@ -1,0 +1,172 @@
+[
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-1413265125",
+  "source": {
+   "name": "SQLite Helper",
+   "showName": false,
+   "instructions": "**User 2 has database version 1.** ",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "_id": "56df9c3b-2850-729d-bcb8-22c1d2b090eb",
+     "correct": false,
+     "answer": "Code F then D"
+    },
+    {
+     "_id": "4ce17649-8509-cc31-fc75-da1e4b63f74e",
+     "correct": false,
+     "answer": "Code A then D"
+    },
+    {
+     "_id": "a002ebf8-3723-d602-0ff9-856188a4c8fb",
+     "correct": false,
+     "answer": "Code B"
+    },
+    {
+     "_id": "9a1d966b-12f6-faff-b7dc-ea2930a23e8b",
+     "correct": true,
+     "answer": "Code B then D"
+    }
+   ]
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-1636661186",
+  "source": {
+   "name": "SQLite Helper 2",
+   "showName": false,
+   "instructions": "**User 3 has database version 2.**",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "_id": "80fcd4a3-1fcc-da47-bf32-f1ed8e92fae7",
+     "correct": false,
+     "answer": "Code B then D"
+    },
+    {
+     "_id": "13cc0d3c-6681-904f-7c74-e6cb541abcb6",
+     "correct": true,
+     "answer": "Code D"
+    },
+    {
+     "_id": "fb1f8e5d-d147-6cae-c14c-cdb9743570b8",
+     "correct": false,
+     "answer": "Code F"
+    },
+    {
+     "_id": "ea5c9684-4128-8ecb-c780-28eb77b41c22",
+     "correct": false,
+     "answer": "Code C then D"
+    }
+   ]
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-2916325324",
+  "source": {
+   "name": "SQLite Helper 3",
+   "showName": false,
+   "instructions": "**User 4 has database version 3.** ",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "_id": "6bc3367f-5d21-7a66-20a9-da611c923d00",
+     "correct": false,
+     "answer": "Code C"
+    },
+    {
+     "_id": "876658e8-67cb-beed-9fbf-f6cdf1b0d014",
+     "correct": true,
+     "answer": "Code C then D"
+    },
+    {
+     "_id": "db4b456e-02a3-c4ef-0653-65b6b93699e2",
+     "correct": false,
+     "answer": "Code E"
+    },
+    {
+     "_id": "790ca4f7-91d0-834b-a2dd-3d293e9a889c",
+     "correct": false,
+     "answer": "None. The user has the correct version of the database"
+    }
+   ]
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-3071024775",
+  "source": {
+   "name": "SQLite Helper 4",
+   "showName": false,
+   "instructions": "**User 5 has  database version 4.**",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "answer": "Code F",
+     "correct": false,
+     "_id": "353e206b-33ad-3c67-ed2e-69b6b6f62f33"
+    },
+    {
+     "correct": true,
+     "answer": "None. The user has the correct version of the database.",
+     "_id": "28fbef02-b528-f28c-ecc0-a8298749c948"
+    },
+    {
+     "answer": "Code A",
+     "correct": false,
+     "_id": "f316a721-8f36-0f47-62dd-451a1e5f1787"
+    },
+    {
+     "answer": "Code D",
+     "correct": false,
+     "_id": "948a3aa1-f656-bd4d-38dc-2c0c45872a3d"
+    }
+   ]
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-3009011971",
+  "source": {
+   "name": "SQLite Helper 5",
+   "showName": false,
+   "instructions": "**User 6 has database version 5.**",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "answer": "Code A",
+     "correct": false,
+     "_id": "b25df636-e315-c538-b9dc-1a765f76a4dc"
+    },
+    {
+     "correct": true,
+     "answer": "Code F",
+     "_id": "3bcf9694-00eb-8764-6ee5-966559c4ed56"
+    },
+    {
+     "answer": "Code E",
+     "correct": false,
+     "_id": "62ac9a6f-1552-2c73-3b72-65860bd253d7"
+    },
+    {
+     "answer": "Code D",
+     "correct": false,
+     "_id": "39bf5697-0e8c-9e3f-58e9-aaa005e98884"
+    }
+   ]
+  }
+ }
+]

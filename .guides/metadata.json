@@ -276,6 +276,90 @@
    "chapter": false,
    "reset": [],
    "teacherOnly": false
+  },
+  {
+   "id": "ba729f24-e2ee-0ee8-0d8d-7e4227ba9f8b",
+   "title": "How SQLite Helper makes decisions",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/How-SQLite-Helper-makes-decisions-ba72.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "388220b6-0c3d-46d0-c16e-53640bc23621",
+   "title": "Upgrade your database with onUpgrade()",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Upgrade-your-database-with-onUpgrade---3882.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "4b1d3c17-3643-4e26-7115-1f12bd433fd1",
+   "title": "Downgrade your database with onDowngrade()",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Downgrade-your-database-with-onDowngrade---4b1d.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "264d6a1e-6f0d-b822-cf23-45a26763f86b",
+   "title": "Let's upgrade the database",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Let-s-upgrade-the-database-264d.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "c65d6172-818f-5ac1-9c34-1a7fd1112e48",
+   "title": "SQLite Helper Test",
+   "files": [
+    {
+     "path": "SQLite Helper Test.java",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/SQLite-Helper-Test-c65d.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "f4f0bdcc-e628-ab67-3a8e-2482ee9840bd",
+   "title": "SQLite Helper continued",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "SQLite Helper Test Highlights.java",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/SQLite-Helper-continued-f4f0.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
   }
  ],
  "theme": "light",
