@@ -4,7 +4,7 @@
    "id": "7cd15453-0688-fdbb-3998-7efac5ba6c08",
    "title": "SQLite Databases",
    "files": [],
-   "layout": "",
+   "layout": "1-panel",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/SQLite-Databases-7cd1.md",
@@ -103,7 +103,14 @@
   {
    "id": "cec85993-8b0e-191c-7dfc-c6b9d2d76886",
    "title": "Creating the SQLite helper continued",
-   "files": [],
+   "files": [
+    {
+     "path": "app/src/main/java/com/hfad/starbuzz/StarbuzzDatabaseHelper.java",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Creating-the-SQLite-helper-continued-cec8.md",
@@ -125,7 +132,13 @@
   {
    "id": "06921c8d-c8f6-0af7-aff1-aada2f9a0dfe",
    "title": "Inside a SQLite database",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Inside-a-SQLite-database-0692.md",
@@ -224,7 +237,14 @@
   {
    "id": "48382fdc-5c7e-c5bd-b9c2-62fb585df476",
    "title": "StarbuzzDatabaseHelper code",
-   "files": [],
+   "files": [
+    {
+     "path": "app/src/main/java/com/hfad/starbuzz/StarbuzzDatabaseHelper.java",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/StarbuzzDatabaseHelper-code-4838.md",
@@ -235,7 +255,13 @@
   {
    "id": "fcbf656f-c501-f363-8bbd-2d88c8e25580",
    "title": "What the SQlite Helper code does",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/What-the-SQlite-Helper-code-does-fcbf.md",
@@ -313,7 +339,14 @@
   {
    "id": "264d6a1e-6f0d-b822-cf23-45a26763f86b",
    "title": "Let's upgrade the database",
-   "files": [],
+   "files": [
+    {
+     "path": "app/src/main/java/com/hfad/starbuzz/StarbuzzDatabaseHelper.java",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Let-s-upgrade-the-database-264d.md",
@@ -325,6 +358,10 @@
    "id": "c65d6172-818f-5ac1-9c34-1a7fd1112e48",
    "title": "SQLite Helper Test",
    "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
     {
      "path": "SQLite Helper Test.java",
      "panel": 0,
@@ -364,7 +401,13 @@
   {
    "id": "88493aec-3ff5-5e47-2946-d26debd81926",
    "title": "Upgrading an existing database",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Upgrading-an-existing-database-8849.md",
@@ -408,7 +451,14 @@
   {
    "id": "f58a2be6-e5f0-34a6-ba2e-e2df02caf289",
    "title": "The full SQLite Helper code",
-   "files": [],
+   "files": [
+    {
+     "path": "app/src/main/java/com/hfad/starbuzz/StarbuzzDatabaseHelper.java",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/The-full-SQLite-Helper-code-f58a.md",
@@ -419,7 +469,13 @@
   {
    "id": "6a83dd6d-47e8-c135-e26c-23a6dd628a62",
    "title": "What happens when the code runs",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/What-happens-when-the-code-runs-6a83.md",
